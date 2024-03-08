@@ -1,0 +1,1 @@
+checkmarxASTScanner additionalOptions: '', baseAuthUrl: '', branchName: '', checkmarxInstallation: 'CX1Jenkins', credentialsId: '', projectName: 'mallorycheckmarx/Minnesota-State-University', serverUrl: 'https://ast.checkmarx.net', tenantName: 'mallorycx1'
